@@ -1,3 +1,4 @@
+Inastall Python adn Flask in your system , Mysql database
 import flask 
 then run python app.py
 
